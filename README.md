@@ -1,7 +1,8 @@
-# Awesome Analytics Engineering learning path
+![image](https://user-images.githubusercontent.com/4315804/144508962-3bebbc56-12cd-47d6-85d8-017ea5c58aea.png)
+
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Curated an organized learning path with the best learning resources inspired by [Awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) 
+Curated an organized learning path with the best learning resources to grow as an Analytics Engineer. 
 
 # Table of contents
 
@@ -43,6 +44,14 @@ This repo was inspired by many other truly awesome repos
 - [Awesome data engineering Learning](https://github.com/snird/awesome-data-engineering-learning)
 - [Awesome data engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Awesome analytics](https://github.com/0xnr/awesome-analytics)
+
+## Getting the analytics engineering job
+
+## Practice
+- [Basic dbt project](https://github.com/Victoriapm/dbt-basics-workshop)
+- [Leetcode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
 
 # Contributing
 We welcome and apprecciate contributions! You can find more information in the [contribution guidelines](contributing.md).
