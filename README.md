@@ -13,16 +13,20 @@ Curated an organized learning path with the best learning resources to grow as a
 
 ## What is analytics engineering? 
 
-## Data modeling 
+## Databases and data modeling 
+- [Database Systems - MIT course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/): This course covers the foundations of database systems
 
 ## Programming
 ### Fundamentals 
 ### SQL
+- [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+- 
 ### Python
 - [Interactive Python tutorial website](http://www.learnpython.org/)
 - [numpy](http://www.numpy.org/) 
 - [pandas: powerful Python data analysis toolkit](https://github.com/pandas-dev/pandas)
 - [Jupyter Notebook](https://jupyter.org/)
+- [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 ### Debugging 
 ### Testing 
 
@@ -53,7 +57,10 @@ This repo was inspired by many other truly awesome repos
 - [Awesome data engineering Learning](https://github.com/snird/awesome-data-engineering-learning)
 - [Awesome data engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Awesome analytics](https://github.com/0xnr/awesome-analytics)
-- [Awesome leading and managing](https://github.com/LappleApple/awesome-leading-and-managing#readme)
+- [Awesome leading and managing](https://github.com/LappleApple/awesome-leading-and-managing)
+- [Awesome engineering team management](https://github.com/kdeldycke/awesome-engineering-team-management)
+- [Awesome CTO](https://github.com/kuchin/awesome-cto)
+- [Awesome code review](https://github.com/joho/awesome-code-review#readme)
 
 ## Getting the analytics engineering job
 
