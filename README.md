@@ -1,14 +1,14 @@
-<!-- Banner --!>
+<!-- Banner -->
 ![image](https://user-images.githubusercontent.com/4315804/144508962-3bebbc56-12cd-47d6-85d8-017ea5c58aea.png)
 
 <!-- Buttons -->
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 ![GitHub last commit](https://img.shields.io/github/last-commit/victoriapm/awesome-analytics-engineering)
 
-<!-- About the project --!>
+<!-- About the project -->
 Curated an organized learning path with the best learning resources to grow as an Analytics Engineer. 
 
-<!-- The content --!>
+<!-- The content -->
 # Table of contents
 
 ## What is analytics engineering? 
