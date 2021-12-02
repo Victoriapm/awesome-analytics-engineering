@@ -1,9 +1,14 @@
+<!-- Banner --!>
 ![image](https://user-images.githubusercontent.com/4315804/144508962-3bebbc56-12cd-47d6-85d8-017ea5c58aea.png)
 
+<!-- Buttons -->
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+![GitHub last commit](https://img.shields.io/github/last-commit/victoriapm/awesome-analytics-engineering)
 
+<!-- About the project --!>
 Curated an organized learning path with the best learning resources to grow as an Analytics Engineer. 
 
+<!-- The content --!>
 # Table of contents
 
 ## What is analytics engineering? 
@@ -26,7 +31,11 @@ Curated an organized learning path with the best learning resources to grow as a
 ### dbt
 ### Looker
 ### git & GitHub
+- [About git](https://docs.github.com/en/get-started/using-git/about-git)
+- [GitHub Learning lab](https://lab.github.com/)
+- [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme)
 ### bash
+
 
 ## Community
 ### Conferences
@@ -44,6 +53,7 @@ This repo was inspired by many other truly awesome repos
 - [Awesome data engineering Learning](https://github.com/snird/awesome-data-engineering-learning)
 - [Awesome data engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Awesome analytics](https://github.com/0xnr/awesome-analytics)
+- [Awesome leading and managing](https://github.com/LappleApple/awesome-leading-and-managing#readme)
 
 ## Getting the analytics engineering job
 
