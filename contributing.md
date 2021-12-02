@@ -12,5 +12,7 @@ Please have a look at it before sending your contribution, but basically have in
 2. Make the changes in the file
 3. Go to the end of the page and enter a description for your change and a description. Please include also motivation for the change
 ![image](https://user-images.githubusercontent.com/4315804/144504365-48e44095-091a-45c9-98c3-b60a50bcf4d0.png)
+4. We will receive the proposal and evaluate it. After approval, it will be merged into the repo. 
+
 
 Note: This guide was prepared to be sufficient for all users, indistict of their knowledge. 
